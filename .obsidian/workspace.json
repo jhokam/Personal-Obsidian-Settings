@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "3b806f931494c208",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fe39599e5af48a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed64b022647e9713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c110afdaf07a86a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5844ebc08ac9a75c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66af1079340f7c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed03f2c9f79852ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f8cf94e666889ad",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f66a2e226cfaa7df",
+    "type": "split",
+    "children": [
+      {
+        "id": "154ef7bcac153956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fbf09de2dd60f0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02bbb991b2a360d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37c4c681adf288df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "c9a04c55474d2704",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0191f531b354bb0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "canvas:Create new canvas": false,
+      "homepage:Open homepage": true,
+      "obsidian-kanban:Create new board": false,
+      "card-board:CardBoard": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ed64b022647e9713",
+  "lastOpenFiles": [
+    "Github/1.png",
+    "README.md",
+    "Github/3.png",
+    "Github/2.png",
+    "Github/4.png",
+    "Example.md",
+    "Assets/4.png",
+    "Assets/3.png",
+    "Assets/2.png",
+    "Assets/1.png",
+    "Daily Note/Friday, 28 June 2024.md",
+    "Home 🏠.md",
+    "Github",
+    "Aspirasi - Copy.md",
+    "New folder",
+    "Aspirasi.md",
+    "Assets/Pasted image 20240903211824.png",
+    "Assets/Pasted image 20240903211755.png",
+    "Untitled Kanban.md",
+    "Kanban/Task/Fix Kanban.md",
+    "Kanban/Kanban-1725240156503.md",
+    "Learning/Learning Dart.md",
+    "Learning/Learning 📚.md",
+    "Kanban/Kanban.md",
+    "API ComPro Rapier @{Monday, 02 September 2024} 1.md",
+    "API ComPro Rapier @{Monday, 02 September 2024}.md",
+    "Kanban/Task",
+    "Daily Note/Sunday, 01 September 2024.md",
+    "Kanban/Task/API ComPro Rapier.md",
+    "Daily Note/Monday, 01 July 2024.md",
+    "Kanban",
+    "Daily Note/About Daily 🔁.md",
+    "Daily Note/Sunday, 01 09 2024.md",
+    "Daily Note/Sunday, 23 June 2024.md",
+    "Daily Note/Thursday, 04 July 2024.md",
+    "Daily Note/Thursday, 27 June 2024.md",
+    "2024-09-01.md",
+    "Learning",
+    "Purchased List 🛒.md",
+    "Rapier World 🏢.md",
+    "Daily Note",
+    "Notion/Aziz’s Dashboard/Archive/Learning/Learning Flutter in FreeCodeCamp",
+    "Notion/Aziz’s Dashboard/Archive/Learning/Economy",
+    "Notion/Aziz’s Dashboard/Archive/Membuat Video P5 Kebekerjaan/Untitled",
+    "Notion/Aziz’s Dashboard/Improvement/How to make people like you",
+    "Untitled.canvas"
+  ]
+}

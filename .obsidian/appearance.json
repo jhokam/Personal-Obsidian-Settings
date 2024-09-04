@@ -1,0 +1,23 @@
+{
+  "accentColor": "#0078c2",
+  "cssTheme": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "FiraCode Nerd Font",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "author-callout",
+    "banner",
+    "code-block",
+    "empty-tab",
+    "command-palette",
+    "hide-ribbon-on-collapse",
+    "heading-indicator",
+    "popover-border",
+    "rounded table",
+    "emacs",
+    "list-point",
+    "blockquote-hover"
+  ]
+}
