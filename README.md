@@ -11,9 +11,9 @@ I would want to share my obsidian settings with you, feel free to use them.
 Contributions are always welcome.
 
 - Send a PR (Pull Request)
-- Take a picture of the changes you're making 
+- Take a picture of the changes you're making
 - Leave it for me.
-  
+
 If I like, I'll take your contribution :D
 
 ## Installation
@@ -30,13 +30,12 @@ Here are some related Obsidian repo
 
 ## Screenshots
 
-You can check it the code at here [Example](Example)
+You can check it the code at here [Example](./Example.md)
 
-![[1.png]]
+![Example Image](./Github/1.png "Example Image")
 
-![[2.png]]
+![Example Image](./Github/2.png "Example Image")
 
-![[3.png]]
+![Example Image](./Github/3.png "Example Image")
 
-![[4.png]]
-
+![Example Image](./Github/4.png "Example Image")
